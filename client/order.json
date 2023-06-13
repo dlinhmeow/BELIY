@@ -1,0 +1,22 @@
+{
+  "checkoutId": "M4nL0vLcH",
+  "orders": [
+    {
+      "idPro": "76b46c3e-fa11-4edb-83ba-1f5cf1d4934c",
+      "quantityOrder": 1,
+      "namePro": "BELIY STRESS JACKET BOOM",
+      "sizes": [{ "idSize": "3feb340f-58b3-4430-98d8-538910cc080b", "name": "M" }],
+      "price": 340000
+    }
+  ],
+  "name": "huy01682312920@gmail.com",
+  "email": "huy01682312920@gmail.com",
+  "phone": "0963639201",
+  "province": "Tỉnh Hà Giang",
+  "district": "Huyện Đồng Văn",
+  "award": "Xã Lũng Cú",
+  "addressNumber": "",
+  "paymentMethods": "payment_on_delivery",
+  "status": 0,
+  "isCharge": false
+}
